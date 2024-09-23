@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<h3 align="left">Connect with me:</h3><br>
+<h3 align="left">Connect with me:</h3>
 <p>7459074155</p>
 <h4><a href="gaurav.jss.au@gmail.com">gaurav.jss.au@gmail.com</a></h4>
 <p align="left">
