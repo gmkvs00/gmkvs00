@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>7459074155</p>
-<h4><a href="gaurav.jss.au@gmail.com">gaurav.jss.au@gmail.com</a></h4>
+<p><a href="gaurav.jss.au@gmail.com">gaurav.jss.au@gmail.com</a></p>
 <p align="left">
 </p>
 
