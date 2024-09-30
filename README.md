@@ -1,4 +1,4 @@
-<a href="https://ibb.co/X3QmGcg"><img src="https://i.ibb.co/KLPC8Tk/Designer.jpg" alt="Designer" border="0" width="100%" height="50%"></a>
+<a href="https://ibb.co/X3QmGcg"><img src="https://i.ibb.co/KLPC8Tk/Designer.jpg" alt="Designer" border="0" heiglt="400px" width="100%" height="50%"></a>
 <h1 align="center">Hi 👋, I'm Gaurav Mishra</h1>
 <h3 align="center">Software Developer</h3>
 
