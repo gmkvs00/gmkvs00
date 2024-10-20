@@ -1,5 +1,5 @@
 <a href="https://ibb.co/X3QmGcg">
-  <img src="https://i.ibb.co/KLPC8Tk/Designer.jpg" alt="Designer" border="2px solid black" width="100%" height="400px" style="border-radius: 10px;">
+  <img src="https://i.ibb.co/KLPC8Tk/Designer.jpg" alt="Designer" border="2px" width="100%" height="400px" style="border-radius: 10px;">
 </a>
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2; font-size: 3rem;">
